@@ -5,6 +5,11 @@
 - $65 per page black and white
 - $80 per page Color
 
+## Illustrations
+
+ - $40 per drawing (black and white)
+ - $60 per drawing (color)
+
 # Examples of deliverable
 
 ## Manga Page(B&W)
