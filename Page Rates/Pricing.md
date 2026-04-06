@@ -15,7 +15,9 @@
 
 ![set design sheet example](assets/han%20and%20the%20dragon's%20fist%20page1%20remaster.jpg)
 
-![concepts for environment 1](assets/han%20and%20the%20dragon's%20fist%20page1%20remaster.jpg)
+![concepts for environment 1](assets/han%20and%20the%20dragon's%20fist%20page2%20remaster.jpg)
+
+![concepts for environment 1](assets/han%20and%20the%20dragon's%20fist%20remaster%20page%203.png)
 
 ![concept for environment 2](assets/centaur.jpg)
 
